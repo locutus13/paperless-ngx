@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-10 09:02-0800\n"
-"PO-Revision-Date: 2023-11-13 01:31\n"
+"PO-Revision-Date: 2023-12-04 00:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -649,7 +649,7 @@ msgstr ""
 
 #: documents/models.py:888
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #: documents/models.py:889
 msgid "Boolean"
@@ -669,7 +669,7 @@ msgstr ""
 
 #: documents/models.py:904
 msgid "data type"
-msgstr ""
+msgstr "jenis data"
 
 #: documents/models.py:912
 msgid "custom field"
@@ -731,7 +731,7 @@ msgstr "Masuk lagi"
 
 #: documents/templates/registration/login.html:14
 msgid "Paperless-ngx sign in"
-msgstr ""
+msgstr "Masuk Paperless-ngx"
 
 #: documents/templates/registration/login.html:41
 msgid "Please sign in."
@@ -743,11 +743,11 @@ msgstr "Nama pengguna dan sandi tidak cocok. Silahkan coba kembali."
 
 #: documents/templates/registration/login.html:48
 msgid "Share link was not found."
-msgstr ""
+msgstr "Tautan tidak ditemukan."
 
 #: documents/templates/registration/login.html:52
 msgid "Share link has expired."
-msgstr ""
+msgstr "Tautan telah kedaluwarsa."
 
 #: documents/templates/registration/login.html:55
 msgid "Username"
@@ -763,7 +763,7 @@ msgstr "Masuk"
 
 #: documents/templates/registration/login.html:70
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Lupa kata sandi Anda?"
 
 #: documents/templates/registration/password_reset_complete.html:14
 msgid "Paperless-ngx reset password complete"
@@ -816,11 +816,11 @@ msgstr "Periksa kotak masuk Anda."
 
 #: documents/templates/registration/password_reset_done.html:41
 msgid "We've emailed you instructions for setting your password. You should receive the email shortly!"
-msgstr ""
+msgstr "Kami telah mengirimkan Anda surel instruksi untuk menyetel kata sandi. Anda akan menerima surel segera!"
 
 #: documents/templates/registration/password_reset_form.html:14
 msgid "Paperless-ngx reset password request"
-msgstr ""
+msgstr "Paperless-ngx permintaan mengatur ulang kata sandi"
 
 #: documents/templates/registration/password_reset_form.html:41
 msgid "Enter your email address below, and we'll email instructions for setting a new one."
@@ -876,11 +876,11 @@ msgstr ""
 
 #: paperless/settings.py:594
 msgid "German"
-msgstr ""
+msgstr "Jerman"
 
 #: paperless/settings.py:595
 msgid "Greek"
-msgstr ""
+msgstr "Yunani"
 
 #: paperless/settings.py:596
 msgid "English (GB)"
@@ -896,23 +896,23 @@ msgstr ""
 
 #: paperless/settings.py:599
 msgid "French"
-msgstr ""
+msgstr "Prancis"
 
 #: paperless/settings.py:600
 msgid "Hungarian"
-msgstr ""
+msgstr "Hungaria"
 
 #: paperless/settings.py:601
 msgid "Italian"
-msgstr ""
+msgstr "Italia"
 
 #: paperless/settings.py:602
 msgid "Luxembourgish"
-msgstr ""
+msgstr "Luksemburg"
 
 #: paperless/settings.py:603
 msgid "Norwegian"
-msgstr ""
+msgstr "Norwegia"
 
 #: paperless/settings.py:604
 msgid "Dutch"
@@ -940,7 +940,7 @@ msgstr "Rusia"
 
 #: paperless/settings.py:610
 msgid "Slovak"
-msgstr ""
+msgstr "Slovakia"
 
 #: paperless/settings.py:611
 msgid "Slovenian"
@@ -960,7 +960,7 @@ msgstr "Turki"
 
 #: paperless/settings.py:615
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukraina"
 
 #: paperless/settings.py:616
 msgid "Chinese Simplified"
@@ -1052,7 +1052,7 @@ msgstr "kata sandi"
 
 #: paperless_mail/models.py:42
 msgid "Is token authentication"
-msgstr ""
+msgstr "Adalah autentikasi token"
 
 #: paperless_mail/models.py:45
 msgid "character set"
@@ -1152,7 +1152,7 @@ msgstr "saring dari"
 
 #: paperless_mail/models.py:122
 msgid "filter to"
-msgstr ""
+msgstr "saring ke"
 
 #: paperless_mail/models.py:129
 msgid "filter subject"
@@ -1200,11 +1200,11 @@ msgstr ""
 
 #: paperless_mail/models.py:196
 msgid "assign title from"
-msgstr ""
+msgstr "tetapkan judul dari"
 
 #: paperless_mail/models.py:216
 msgid "assign correspondent from"
-msgstr ""
+msgstr "tetapkan koresponden dari"
 
 #: paperless_mail/models.py:230
 msgid "Assign the rule owner to documents"
